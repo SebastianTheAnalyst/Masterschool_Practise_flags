@@ -1,2 +1,2 @@
-# Masterschool_Practise_flags
+# Masterschool_PractiseSession_flags
  Masterschool_Practise_flags
